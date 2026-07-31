@@ -49,7 +49,7 @@
 ## Atividade
 
 <div align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SEU_USUARIO_AQUI&theme=github_dark" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vcljunges&theme=github_dark" />
 </div>
 
 ---
@@ -60,7 +60,7 @@
 
 **Email:** vcljunges@gmail.com
 
-**GitHub:** https://github.com/Vcljunges
+**GitHub:** https://github.com/vcljunges
 
 </div>
 
