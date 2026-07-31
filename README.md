@@ -8,12 +8,13 @@
   <tr>  
     <td width="60%">
       <h2>Sobre mim</h2>
-      <p>Sou estudante de Desenvolvimento de Sistemas com interesse em desenvolvimento Full Stack.</p>
+      <p>Sou estudante de ciência da computação com interesse em desenvolvimento Full Stack.</p>
       <p>Atualmente estudo:</p>
       <ul>
         <li>TypeScript</li>  
         <li>React</li>  
         <li>Next.js</li>  
+        <li>Java</li>
         <li>C#</li>  
         <li>Python</li>  
         <li>Banco de Dados</li>
